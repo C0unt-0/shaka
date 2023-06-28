@@ -1,0 +1,19 @@
+{
+  "name": "shaka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "awp.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COUNTZERO-DEV/shaka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/COUNTZERO-DEV/shaka/issues"
+  },
+  "homepage": "https://github.com/COUNTZERO-DEV/shaka#readme"
+}
